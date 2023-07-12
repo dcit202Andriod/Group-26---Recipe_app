@@ -27,5 +27,5 @@
 > 
 > GYASI ERNEST (10962015) 10962015: Was delegated the task of creating background of page
 
-> GYASI ERNEST, SEBUABE OSBORNE JAHDIEL, AKOTO SAMUEL KOMLA: Were delegated the task of creating the search bar functionality.
+> GYASI ERNEST, SEBUABE OSBORNE JAHDIEL [10956967] (YondaimeKirin), AKOTO SAMUEL KOMLA: Were delegated the task of creating the search bar functionality.
  
