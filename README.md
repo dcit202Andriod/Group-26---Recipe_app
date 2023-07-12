@@ -23,7 +23,7 @@
 
 > TAY ANDREW KWESI, OFOSU ELIZABETH [10945805] (Lyzzie-leo), ADDO JUDE NYAMEBA BEDIAKO: Were delgated the task of creating the add recipe page.
 
-> AGBENYEGAH JUDE MENSAH(10947803), NANA KONADU OWUSU: Were delegated the task of creating the recipe details page.
+> AGBENYEGAH JUDE MENSAH[10947803] (zettai-kiron), NANA KONADU OWUSU: Were delegated the task of creating the recipe details page.
 
 > GYASI ERNEST, SEBUABE OSBORNE JAHDIEL, AKOTO SAMUEL KOMLA: Were delegated the task of creating the search bar functionality.
  
