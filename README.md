@@ -19,7 +19,7 @@
 
 > SEMANYOH NISSI KEKELI(Group leader) [10948508] (lordofcodess): Was delegated the task of working on the home page with image slider and did it to full effect.
 
-> KINBOBOYE PRINCESS NAOMI: Was delegated the task of creating the nav bar and accomplished it.
+> AKINBOBOYE PRINCESS NAOMI [10969875] (princessnaomii): Was delegated the task of creating the nav bar and accomplished it.
 
 > TAY ANDREW KWESI, OFOSU ELIZABETH [10945805] (Lyzzie-leo), ADDO JUDE NYAMEBA BEDIAKO: Were delgated the task of creating the add recipe page.
 
