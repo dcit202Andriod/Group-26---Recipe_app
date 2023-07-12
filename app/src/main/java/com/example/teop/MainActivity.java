@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onBackPressed(){
         if(mywebView.canGoBack()) {
-            
+           mywebView.goBack(); 
         }
         else{
             super.onBackPressed();
