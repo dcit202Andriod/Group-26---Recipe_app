@@ -17,10 +17,13 @@
 
 ## Responsibilities and Contributions
 
-> SEMANYOH NISSI KEKELI(Group leader): Was delegated the task of working on the home page with image slider and did it to full effect.
+> SEMANYOH NISSI KEKELI(Group leader) [10948508] (lordofcodess): Was delegated the task of working on the home page with image slider and did it to full effect.
 
 > KINBOBOYE PRINCESS NAOMI: Was delegated the task of creating the nav bar and accomplished it.
 
-> TAY ANDREW KWESI, OFOSU ELIZABETH, ADDO JUDE NYAMEBA BEDIAKO: Were delgated the task of creating the add recipe page.
+> TAY ANDREW KWESI, OFOSU ELIZABETH [10945805] (Lyzzie-leo), ADDO JUDE NYAMEBA BEDIAKO: Were delgated the task of creating the add recipe page.
 
 > AGBENYEGAH JUDE MENSAH(10947803), NANA KONADU OWUSU: Were delegated the task of creating the recipe details page.
+
+> GYASI ERNEST, SEBUABE OSBORNE JAHDIEL, AKOTO SAMUEL KOMLA: Were delegated the task of creating the search bar functionality.
+ 
