@@ -24,8 +24,8 @@
 > TAY ANDREW KWESI, OFOSU ELIZABETH [10945805] (Lyzzie-leo), ADDO JUDE NYAMEBA BEDIAKO [10959884] (HemoraKen): Were delgated the task of creating the add recipe page.
 
 > AGBENYEGAH JUDE MENSAH[10947803] (zettai-kiron), NANA KONADU OWUSU [10982014] (Itishiei): Were delegated the task of creating the recipe details page.
-> 
-> GYASI ERNEST (10962015) 10962015: Was delegated the task of creating background of page
+ 
+> GYASI ERNEST [10962015] 10962015: Was delegated the task of creating background of page
 
-> GYASI ERNEST, SEBUABE OSBORNE JAHDIEL [10956967] (YondaimeKirin), AKOTO SAMUEL KOMLA: Were delegated the task of creating the search bar functionality.
+> SEBUABE OSBORNE JAHDIEL [10956967] (YondaimeKirin), AKOTO SAMUEL KOMLA [10972909]: Were delegated the task of creating the search bar functionality.
  
