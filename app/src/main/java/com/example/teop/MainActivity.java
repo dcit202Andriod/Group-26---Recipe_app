@@ -32,13 +32,4 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
     }
-    @Override
-    public void onBackPressed(){
-        if(mywebView.canGoBack()) {
-            mywebView.goBack();
-        }
-        else{
-            super.onBackPressed();
-        }
-    }
-}
+    
