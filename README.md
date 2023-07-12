@@ -23,4 +23,4 @@
 
 > TAY ANDREW KWESI, OFOSU ELIZABETH, ADDO JUDE NYAMEBA BEDIAKO: Were delgated the task of creating the add recipe page.
 
-> AGBENYEGAH JUDE MENSAH, NANA KONADU OWUSU: Were delegated the task of creating the recipe details page.
+> AGBENYEGAH JUDE MENSAH(10947803), NANA KONADU OWUSU: Were delegated the task of creating the recipe details page.
